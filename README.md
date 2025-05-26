@@ -1,6 +1,5 @@
 # JobGinger - Job Portal Website
-
-![JobGinger Logo](https://via.placeholder.com/150x50?text=JobGinger+Logo)
+[Website Screenshot](./website.png) 
 
 A modern job portal website connecting job seekers with employers worldwide.
 
