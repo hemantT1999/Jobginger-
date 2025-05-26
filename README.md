@@ -1,6 +1,4 @@
 # JobGinger - Job Portal Website
-[Website Screenshot](./website.png) 
-
 A modern job portal website connecting job seekers with employers worldwide.
 
 ## Features
